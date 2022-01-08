@@ -5,6 +5,7 @@ public class test1 {
 
         Scanner input = new Scanner(System.in);
         System.out.print("input integer number : ");
+
         int n = input.nextInt();
         System.out.println("n = " + n);
 
